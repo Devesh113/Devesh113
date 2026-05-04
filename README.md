@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20[Your%20Name]%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Hey%2C%20I'm%20Devesh/Incodder%20👋&fontSize=45&fontColor=ffffff&fontAlignY=38&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -78,15 +78,6 @@ me.say_hi()
 
 ---
 
-## 🐍 Contribution Graph
-
-<div align="center">
-<img src="https://github.com/yourusername/yourusername/blob/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
-</div>
-
-> ⚡ *To enable the snake animation, set up the [GitHub Actions workflow](https://github.com/Platane/snk) in your repo.*
-
----
 
 ## 🚀 What I'm Up To
 
@@ -167,6 +158,6 @@ me.say_hi()
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&animation=fadeIn" width="100%"/>
 
-*"Code is poetry — write it to be read by humans first, machines second."* 🖤
+<h1>*"Code is poetry — write it to be read by humans first, machines second."* 🖤<h1></h1>
 
 </div>
