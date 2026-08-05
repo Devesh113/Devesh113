@@ -8,9 +8,7 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=7c3aed&style=for-the-badge" />
-&nbsp;
-<a href="https://github.com/yourusername?tab=followers"><img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=for-the-badge&color=7c3aed&labelColor=1a1a2e" /></a>
+
 
 </div>
 
@@ -63,18 +61,6 @@ me.say_hi()
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&icon_color=7c3aed&text_color=c4b5fd&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=midnight-purple&hide_border=true&background=0d0d1a&ring=7c3aed&fire=a78bfa&currStreakLabel=a78bfa" />
-
-<br/><br/>
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d1a&title_color=a78bfa&text_color=c4b5fd&langs_count=8" />
-
-</div>
 
 ---
 
@@ -117,14 +103,14 @@ me.say_hi()
 <a href="https://leetcode.com/yourusername/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
-&nbsp;
-<a href="https://www.hackerrank.com/yourusername">
+<!-- &nbsp; -->
+<!-- <a href="https://www.hackerrank.com/yourusername">
   <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-</a>
-&nbsp;
-<a href="https://codeforces.com/profile/yourusername">
+</a> -->
+<!-- &nbsp; -->
+<!-- <a href="https://codeforces.com/profile/yourusername">
   <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-</a>
+</a> -->
 
 </div>
 
@@ -134,19 +120,19 @@ me.say_hi()
 
 <div align="center">
 
-<a href="https://linkedin.com/in/yourusername">
+<a href="https://www.linkedin.com/in/devesh-gupta-2ba6b9259/">
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 &nbsp;
-<a href="mailto:youremail@gmail.com">
+<a href="mailto:deveshguptawork06@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://twitter.com/yourusername">
+<a href="https://x.com/DeveshG97652951">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 </a>
 &nbsp;
-<a href="https://yourportfolio.dev">
+<a href="https://yourportfolio">
   <img src="https://img.shields.io/badge/Portfolio-7c3aed?style=for-the-badge&logo=google-chrome&logoColor=white" />
 </a>
 
