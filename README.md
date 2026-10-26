@@ -100,7 +100,7 @@ me.say_hi()
 
 <br/>
 
-<a href="https://leetcode.com/yourusername/">
+<a href="https://leetcode.com/u/InCodder/">
   <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
 </a>
 <!-- &nbsp; -->
