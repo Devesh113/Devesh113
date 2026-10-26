@@ -39,23 +39,39 @@ me.say_hi()
 
 ---
 
+---
 ## 🛠️ Tech Stack & Tools
 
 <div align="center">
 
 ### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react&theme=dark&perline=5" />
+
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html&theme=dark" alt="HTML" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css&theme=dark" alt="CSS" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js&theme=dark" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/"><img src="https://skillicons.dev/icons?i=ts&theme=dark" alt="TypeScript" /></a>
+<a href="https://react.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React" /></a>
 
 ### ⚙️ Backend & Database
-<img src="https://skillicons.dev/icons?i=fastapi,python,supabase,postgres&theme=dark&perline=5" />
+
+<a href="https://fastapi.tiangolo.com/"><img src="https://skillicons.dev/icons?i=fastapi&theme=dark" alt="FastAPI" /></a>
+<a href="https://www.python.org/"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" /></a>
+<a href="https://supabase.com/docs"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" alt="Supabase" /></a>
+<a href="https://www.postgresql.org/"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" alt="PostgreSQL" /></a>
 
 ### 📱 Mobile
-<img src="https://skillicons.dev/icons?i=react,nodejs&theme=dark&perline=5" />
-<br/>
-<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+
+<a href="https://reactnative.dev/"><img src="https://skillicons.dev/icons?i=react&theme=dark" alt="React Native" /></a>
+<a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" alt="Node.js" /></a>
+<a href="https://reactnative.dev/"><img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native documentation" /></a>
 
 ### 🧰 Tools & Workflow
-<img src="https://skillicons.dev/icons?i=git,github,vscode,figma,postman&theme=dark&perline=5" />
+
+<a href="https://git-scm.com/"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" /></a>
+<a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github&theme=dark" alt="GitHub" /></a>
+<a href="https://code.visualstudio.com/"><img src="https://skillicons.dev/icons?i=vscode&theme=dark" alt="VS Code" /></a>
+<a href="https://www.figma.com/"><img src="https://skillicons.dev/icons?i=figma&theme=dark" alt="Figma" /></a>
+<a href="https://www.postman.com/"><img src="https://skillicons.dev/icons?i=postman&theme=dark" alt="Postman" /></a>
 
 </div>
 
